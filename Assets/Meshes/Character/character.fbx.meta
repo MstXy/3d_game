@@ -1,0 +1,2054 @@
+fileFormatVersion: 2
+guid: c8f5d3eca513dd14eb9f16bcb1b1a1f8
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Clothes
+  - first:
+      1: 100004
+    second: Hair
+  - first:
+      1: 100006
+    second: Head_BASE
+  - first:
+      1: 100008
+    second: Head_End_BASE
+  - first:
+      1: 100010
+    second: Hip_BASE
+  - first:
+      1: 100012
+    second: L_Ankle_BASE
+  - first:
+      1: 100014
+    second: L_Ball_BASE
+  - first:
+      1: 100016
+    second: L_Clavicle_BASE
+  - first:
+      1: 100018
+    second: L_Femur_BASE
+  - first:
+      1: 100020
+    second: L_Forearm_BASE
+  - first:
+      1: 100022
+    second: L_Humerus_BASE
+  - first:
+      1: 100024
+    second: L_Index01_BASE
+  - first:
+      1: 100026
+    second: L_Index02_BASE
+  - first:
+      1: 100028
+    second: L_Index03_BASE
+  - first:
+      1: 100030
+    second: L_Index_End_BASE
+  - first:
+      1: 100032
+    second: L_Knee_BASE
+  - first:
+      1: 100034
+    second: L_Middle01_BASE
+  - first:
+      1: 100036
+    second: L_Middle02_BASE
+  - first:
+      1: 100038
+    second: L_Middle03_BASE
+  - first:
+      1: 100040
+    second: L_Middle_End_BASE
+  - first:
+      1: 100042
+    second: L_Pinky01_BASE
+  - first:
+      1: 100044
+    second: L_Pinky02_BASE
+  - first:
+      1: 100046
+    second: L_Pinky03_BASE
+  - first:
+      1: 100048
+    second: L_Pinky_End_BASE
+  - first:
+      1: 100050
+    second: L_Ring01_BASE
+  - first:
+      1: 100052
+    second: L_Ring02_BASE
+  - first:
+      1: 100054
+    second: L_Ring03_BASE
+  - first:
+      1: 100056
+    second: L_Ring_End_BASE
+  - first:
+      1: 100058
+    second: L_Thumb01_BASE
+  - first:
+      1: 100060
+    second: L_Thumb02_BASE
+  - first:
+      1: 100062
+    second: L_Thumb03_BASE
+  - first:
+      1: 100064
+    second: L_Thumb_End_BASE
+  - first:
+      1: 100066
+    second: L_Toe_BASE
+  - first:
+      1: 100068
+    second: L_Wrist_BASE
+  - first:
+      1: 100070
+    second: Neck_BASE
+  - first:
+      1: 100072
+    second: pCube1
+  - first:
+      1: 100074
+    second: R_Ankle_BASE
+  - first:
+      1: 100076
+    second: R_Ball_BASE
+  - first:
+      1: 100078
+    second: R_Clavicle_BASE
+  - first:
+      1: 100080
+    second: R_Femur_BASE
+  - first:
+      1: 100082
+    second: R_Forearm_BASE
+  - first:
+      1: 100084
+    second: R_Humerus_BASE
+  - first:
+      1: 100086
+    second: R_Index01_BASE
+  - first:
+      1: 100088
+    second: R_Index02_BASE
+  - first:
+      1: 100090
+    second: R_Index03_BASE
+  - first:
+      1: 100092
+    second: R_Index_End_BASE
+  - first:
+      1: 100094
+    second: R_Knee_BASE
+  - first:
+      1: 100096
+    second: R_Middle01_BASE
+  - first:
+      1: 100098
+    second: R_Middle02_BASE
+  - first:
+      1: 100100
+    second: R_Middle03_BASE
+  - first:
+      1: 100102
+    second: R_Middle_End_BASE
+  - first:
+      1: 100104
+    second: R_Pinky01_BASE
+  - first:
+      1: 100106
+    second: R_Pinky02_BASE
+  - first:
+      1: 100108
+    second: R_Pinky03_BASE
+  - first:
+      1: 100110
+    second: R_Pinky_End_BASE
+  - first:
+      1: 100112
+    second: R_Ring01_BASE
+  - first:
+      1: 100114
+    second: R_Ring02_BASE
+  - first:
+      1: 100116
+    second: R_Ring03_BASE
+  - first:
+      1: 100118
+    second: R_Ring_End_BASE
+  - first:
+      1: 100120
+    second: R_Thumb01_BASE
+  - first:
+      1: 100122
+    second: R_Thumb02_BASE
+  - first:
+      1: 100124
+    second: R_Thumb03_BASE
+  - first:
+      1: 100126
+    second: R_Thumb_End_BASE
+  - first:
+      1: 100128
+    second: R_Toe_BASE
+  - first:
+      1: 100130
+    second: R_Wrist_BASE
+  - first:
+      1: 100132
+    second: Reference_BASE
+  - first:
+      1: 100134
+    second: Root_BASE
+  - first:
+      1: 100136
+    second: Skin
+  - first:
+      1: 100138
+    second: Spine01_BASE
+  - first:
+      1: 100140
+    second: Spine02_BASE
+  - first:
+      1: 100142
+    second: Spine03_BASE
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Clothes
+  - first:
+      4: 400004
+    second: Hair
+  - first:
+      4: 400006
+    second: Head_BASE
+  - first:
+      4: 400008
+    second: Head_End_BASE
+  - first:
+      4: 400010
+    second: Hip_BASE
+  - first:
+      4: 400012
+    second: L_Ankle_BASE
+  - first:
+      4: 400014
+    second: L_Ball_BASE
+  - first:
+      4: 400016
+    second: L_Clavicle_BASE
+  - first:
+      4: 400018
+    second: L_Femur_BASE
+  - first:
+      4: 400020
+    second: L_Forearm_BASE
+  - first:
+      4: 400022
+    second: L_Humerus_BASE
+  - first:
+      4: 400024
+    second: L_Index01_BASE
+  - first:
+      4: 400026
+    second: L_Index02_BASE
+  - first:
+      4: 400028
+    second: L_Index03_BASE
+  - first:
+      4: 400030
+    second: L_Index_End_BASE
+  - first:
+      4: 400032
+    second: L_Knee_BASE
+  - first:
+      4: 400034
+    second: L_Middle01_BASE
+  - first:
+      4: 400036
+    second: L_Middle02_BASE
+  - first:
+      4: 400038
+    second: L_Middle03_BASE
+  - first:
+      4: 400040
+    second: L_Middle_End_BASE
+  - first:
+      4: 400042
+    second: L_Pinky01_BASE
+  - first:
+      4: 400044
+    second: L_Pinky02_BASE
+  - first:
+      4: 400046
+    second: L_Pinky03_BASE
+  - first:
+      4: 400048
+    second: L_Pinky_End_BASE
+  - first:
+      4: 400050
+    second: L_Ring01_BASE
+  - first:
+      4: 400052
+    second: L_Ring02_BASE
+  - first:
+      4: 400054
+    second: L_Ring03_BASE
+  - first:
+      4: 400056
+    second: L_Ring_End_BASE
+  - first:
+      4: 400058
+    second: L_Thumb01_BASE
+  - first:
+      4: 400060
+    second: L_Thumb02_BASE
+  - first:
+      4: 400062
+    second: L_Thumb03_BASE
+  - first:
+      4: 400064
+    second: L_Thumb_End_BASE
+  - first:
+      4: 400066
+    second: L_Toe_BASE
+  - first:
+      4: 400068
+    second: L_Wrist_BASE
+  - first:
+      4: 400070
+    second: Neck_BASE
+  - first:
+      4: 400072
+    second: pCube1
+  - first:
+      4: 400074
+    second: R_Ankle_BASE
+  - first:
+      4: 400076
+    second: R_Ball_BASE
+  - first:
+      4: 400078
+    second: R_Clavicle_BASE
+  - first:
+      4: 400080
+    second: R_Femur_BASE
+  - first:
+      4: 400082
+    second: R_Forearm_BASE
+  - first:
+      4: 400084
+    second: R_Humerus_BASE
+  - first:
+      4: 400086
+    second: R_Index01_BASE
+  - first:
+      4: 400088
+    second: R_Index02_BASE
+  - first:
+      4: 400090
+    second: R_Index03_BASE
+  - first:
+      4: 400092
+    second: R_Index_End_BASE
+  - first:
+      4: 400094
+    second: R_Knee_BASE
+  - first:
+      4: 400096
+    second: R_Middle01_BASE
+  - first:
+      4: 400098
+    second: R_Middle02_BASE
+  - first:
+      4: 400100
+    second: R_Middle03_BASE
+  - first:
+      4: 400102
+    second: R_Middle_End_BASE
+  - first:
+      4: 400104
+    second: R_Pinky01_BASE
+  - first:
+      4: 400106
+    second: R_Pinky02_BASE
+  - first:
+      4: 400108
+    second: R_Pinky03_BASE
+  - first:
+      4: 400110
+    second: R_Pinky_End_BASE
+  - first:
+      4: 400112
+    second: R_Ring01_BASE
+  - first:
+      4: 400114
+    second: R_Ring02_BASE
+  - first:
+      4: 400116
+    second: R_Ring03_BASE
+  - first:
+      4: 400118
+    second: R_Ring_End_BASE
+  - first:
+      4: 400120
+    second: R_Thumb01_BASE
+  - first:
+      4: 400122
+    second: R_Thumb02_BASE
+  - first:
+      4: 400124
+    second: R_Thumb03_BASE
+  - first:
+      4: 400126
+    second: R_Thumb_End_BASE
+  - first:
+      4: 400128
+    second: R_Toe_BASE
+  - first:
+      4: 400130
+    second: R_Wrist_BASE
+  - first:
+      4: 400132
+    second: Reference_BASE
+  - first:
+      4: 400134
+    second: Root_BASE
+  - first:
+      4: 400136
+    second: Skin
+  - first:
+      4: 400138
+    second: Spine01_BASE
+  - first:
+      4: 400140
+    second: Spine02_BASE
+  - first:
+      4: 400142
+    second: Spine03_BASE
+  - first:
+      23: 2300000
+    second: pCube1
+  - first:
+      33: 3300000
+    second: pCube1
+  - first:
+      43: 4300000
+    second: Skin
+  - first:
+      43: 4300002
+    second: Hair
+  - first:
+      43: 4300004
+    second: Clothes
+  - first:
+      43: 4300006
+    second: pCube1
+  - first:
+      74: 7400000
+    second: Idle
+  - first:
+      74: 7400002
+    second: Cheer
+  - first:
+      74: 7400004
+    second: Walk
+  - first:
+      74: 7400006
+    second: Push
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      137: 13700000
+    second: Clothes
+  - first:
+      137: 13700002
+    second: Hair
+  - first:
+      137: 13700004
+    second: Skin
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'Spine03_BASE'
+      : rotation error = 2.934496 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Take 001' has import animation warnings that
+      might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'Root_BASE' has translation animation that
+      will be discarded.\n\t'Root_BASE' is inbetween humanoid transforms and has
+      rotation animation that will be discarded.\n\t'Hip_BASE' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'L_Ball_BASE'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'R_Ball_BASE'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'Spine03_BASE'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Idle
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 143
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Clothes
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Reference_BASE
+        weight: 1
+      - path: Reference_BASE/pCube1
+        weight: 1
+      - path: Reference_BASE/Root_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE/L_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE/R_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE/L_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE/L_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE/L_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE/L_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE/L_Thumb_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE/Head_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE/R_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE/R_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE/R_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE/R_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE/R_Thumb_End_BASE
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Cheer
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 144
+      lastFrame: 192
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Clothes
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Reference_BASE
+        weight: 1
+      - path: Reference_BASE/pCube1
+        weight: 1
+      - path: Reference_BASE/Root_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE/L_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE/R_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE/L_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE/L_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE/L_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE/L_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE/L_Thumb_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE/Head_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE/R_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE/R_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE/R_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE/R_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE/R_Thumb_End_BASE
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 194
+      lastFrame: 217
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Clothes
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Reference_BASE
+        weight: 1
+      - path: Reference_BASE/pCube1
+        weight: 1
+      - path: Reference_BASE/Root_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE/L_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE/R_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE/L_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE/L_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE/L_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE/L_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE/L_Thumb_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE/Head_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE/R_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE/R_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE/R_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE/R_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE/R_Thumb_End_BASE
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Push
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 220
+      lastFrame: 250
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0.2
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Clothes
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Reference_BASE
+        weight: 1
+      - path: Reference_BASE/pCube1
+        weight: 1
+      - path: Reference_BASE/Root_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/L_Femur_BASE/L_Knee_BASE/L_Ankle_BASE/L_Ball_BASE/L_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Hip_BASE/R_Femur_BASE/R_Knee_BASE/R_Ankle_BASE/R_Ball_BASE/R_Toe_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Index01_BASE/L_Index02_BASE/L_Index03_BASE/L_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Middle01_BASE/L_Middle02_BASE/L_Middle03_BASE/L_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Pinky01_BASE/L_Pinky02_BASE/L_Pinky03_BASE/L_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Ring01_BASE/L_Ring02_BASE/L_Ring03_BASE/L_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/L_Clavicle_BASE/L_Humerus_BASE/L_Forearm_BASE/L_Wrist_BASE/L_Thumb01_BASE/L_Thumb02_BASE/L_Thumb03_BASE/L_Thumb_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/Neck_BASE/Head_BASE/Head_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Index01_BASE/R_Index02_BASE/R_Index03_BASE/R_Index_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Middle01_BASE/R_Middle02_BASE/R_Middle03_BASE/R_Middle_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Pinky01_BASE/R_Pinky02_BASE/R_Pinky03_BASE/R_Pinky_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Ring01_BASE/R_Ring02_BASE/R_Ring03_BASE/R_Ring_End_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE
+        weight: 1
+      - path: Reference_BASE/Root_BASE/Spine01_BASE/Spine02_BASE/Spine03_BASE/R_Clavicle_BASE/R_Humerus_BASE/R_Forearm_BASE/R_Wrist_BASE/R_Thumb01_BASE/R_Thumb02_BASE/R_Thumb03_BASE/R_Thumb_End_BASE
+        weight: 1
+      - path: Skin
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human:
+    - boneName: Reference_BASE
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Femur_BASE
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Femur_BASE
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Knee_BASE
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Knee_BASE
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ankle_BASE
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ankle_BASE
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine01_BASE
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Spine02_BASE
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Neck_BASE
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Head_BASE
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Clavicle_BASE
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Clavicle_BASE
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Humerus_BASE
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Humerus_BASE
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Forearm_BASE
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Forearm_BASE
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Wrist_BASE
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Wrist_BASE
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Toe_BASE
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Toe_BASE
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb01_BASE
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb02_BASE
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Thumb03_BASE
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index01_BASE
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index02_BASE
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Index03_BASE
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle01_BASE
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle02_BASE
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Middle03_BASE
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring01_BASE
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring02_BASE
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Ring03_BASE
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky01_BASE
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky02_BASE
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: L_Pinky03_BASE
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb01_BASE
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb02_BASE
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Thumb03_BASE
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index01_BASE
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index02_BASE
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Index03_BASE
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle01_BASE
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle02_BASE
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Middle03_BASE
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring01_BASE
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring02_BASE
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Ring03_BASE
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky01_BASE
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky02_BASE
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: R_Pinky03_BASE
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: character(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Clothes
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Hair
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Reference_BASE
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pCube1
+      parentName: 
+      position: {x: -0, y: 0, z: 82.00001}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 82, y: 82, z: 82}
+    - name: Root_BASE
+      parentName: 
+      position: {x: -0.00000040927353, y: 78.96709, z: -3.1763812e-15}
+      rotation: {x: 8.6115014e-17, y: -0.000000007761021, z: -0.0000000036986116,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: Hip_BASE
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: L_Femur_BASE
+      parentName: 
+      position: {x: -6.429449, y: -6.1099615, z: -1.65087}
+      rotation: {x: -0.00067162834, y: 0.031367954, z: 0.99927866, w: 0.021396045}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: L_Knee_BASE
+      parentName: 
+      position: {x: -0.0000020855466, y: 30.903524, z: -0.00000089183317}
+      rotation: {x: 0.000012888995, y: -0.9977396, z: 0.067138374, w: -0.0028755153}
+      scale: {x: 0.9999995, y: 0.99999994, z: 0.99999964}
+    - name: L_Ankle_BASE
+      parentName: 
+      position: {x: -0.0000010897119, y: 34.003773, z: -0.00000042651632}
+      rotation: {x: 0.0073176613, y: 0.88073355, z: -0.47327396, w: -0.016325995}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: L_Ball_BASE
+      parentName: 
+      position: {x: 0.00000035205704, y: 13.270462, z: -0.000008174258}
+      rotation: {x: 0.64516413, y: -0.3174234, z: -0.62359613, w: 0.30681187}
+      scale: {x: 1, y: 1, z: 1}
+    - name: L_Toe_BASE
+      parentName: 
+      position: {x: -6.63623, y: 0.000006953784, z: -0.0000014648075}
+      rotation: {x: -0.0000000030463603, y: -0.000000042391402, z: -0.000000010947076,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: R_Femur_BASE
+      parentName: 
+      position: {x: 6.429449, y: -6.1099615, z: -1.6508703}
+      rotation: {x: -0.021396061, y: 0.99927866, z: -0.031367954, w: -0.00067164307}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: R_Knee_BASE
+      parentName: 
+      position: {x: 0.0000018159352, y: -30.903513, z: 0.0000006519569}
+      rotation: {x: 0.000012909474, y: -0.9977396, z: 0.067138374, w: -0.002875514}
+      scale: {x: 0.9999997, y: 1, z: 0.9999996}
+    - name: R_Ankle_BASE
+      parentName: 
+      position: {x: 0.000000103726144, y: -34.003777, z: -0.0000044460226}
+      rotation: {x: 0.0073176515, y: 0.8807336, z: -0.4732739, w: -0.016326005}
+      scale: {x: 1.0000002, y: 1, z: 1.0000004}
+    - name: R_Ball_BASE
+      parentName: 
+      position: {x: -0.0000054353663, y: -13.270458, z: -0.0000018340697}
+      rotation: {x: -0.89714897, y: 0.00750349, z: -0.015250877, w: -0.44140092}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1}
+    - name: R_Toe_BASE
+      parentName: 
+      position: {x: 0.000000113586104, y: -0.0000004974679, z: 6.6362357}
+      rotation: {x: 0.000000029667827, y: -5.3745386e-10, z: 0.0000000012784459, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: Spine01_BASE
+      parentName: 
+      position: {x: 0.00000087642735, y: 9.112343, z: 0.54641736}
+      rotation: {x: -0.023384012, y: 0.00000000767631, z: 0.000000003712389, w: 0.9997266}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: Spine02_BASE
+      parentName: 
+      position: {x: -0.0000008250484, y: 10.232689, z: -0.00000055329957}
+      rotation: {x: -0.090116665, y: -0.000000004071885, z: 0.0000000011217688, w: 0.99593127}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: Spine03_BASE
+      parentName: 
+      position: {x: -0.0000015043195, y: 10.633, z: 0.0000016323708}
+      rotation: {x: 0.11974261, y: 0.0000000034932421, z: 0.0000000038062904, w: 0.99280494}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: L_Clavicle_BASE
+      parentName: 
+      position: {x: -2.3378944, y: -0.13765185, z: 5.549742}
+      rotation: {x: 0.73966527, y: -0.53787154, z: -0.23787399, w: -0.3271171}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.99999994}
+    - name: L_Humerus_BASE
+      parentName: 
+      position: {x: -0.0000010787385, y: 13.413349, z: 0.0000073289757}
+      rotation: {x: -0.12873429, y: 0.9304265, z: -0.07438875, w: -0.3349633}
+      scale: {x: 0.9999992, y: 0.9999998, z: 1}
+    - name: L_Forearm_BASE
+      parentName: 
+      position: {x: 0.0000405676, y: 17.753826, z: -0.000009712622}
+      rotation: {x: 0.024807664, y: 0.11570256, z: -0.01754515, w: 0.9928191}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: L_Wrist_BASE
+      parentName: 
+      position: {x: -0.000021571464, y: 20.051973, z: 0.0000020561158}
+      rotation: {x: 0.11872066, y: 0.19098353, z: -0.5087965, w: 0.83099747}
+      scale: {x: 0.9999998, y: 0.99999976, z: 1.0000002}
+    - name: L_Index01_BASE
+      parentName: 
+      position: {x: -5.769034, y: 2.188698, z: -2.8149607}
+      rotation: {x: 0.2780811, y: -0.7134004, z: 0.51286924, w: 0.38819566}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000002}
+    - name: L_Index02_BASE
+      parentName: 
+      position: {x: 0.10439987, y: 2.8419104, z: -0.000025419273}
+      rotation: {x: 0.020454895, y: -0.0067530335, z: 0.02986896, w: 0.99932176}
+      scale: {x: 0.9999999, y: 0.9999997, z: 0.9999997}
+    - name: L_Index03_BASE
+      parentName: 
+      position: {x: 0.10859101, y: 1.7495269, z: 0.000012537495}
+      rotation: {x: 0.46228722, y: 0.86840063, z: 0.16834576, w: 0.0618924}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: L_Index_End_BASE
+      parentName: 
+      position: {x: 1.363674, y: 0.89342374, z: 0.40834668}
+      rotation: {x: 0.5866162, y: -0.79763126, z: -0.1381362, w: 0.024169346}
+      scale: {x: 1, y: 0.99999994, z: 0.9999998}
+    - name: L_Middle01_BASE
+      parentName: 
+      position: {x: -4.9772663, y: 2.1674936, z: -4.037365}
+      rotation: {x: 0.23146811, y: -0.7535133, z: 0.52683866, w: 0.31793296}
+      scale: {x: 0.99999976, y: 1.0000002, z: 0.9999999}
+    - name: L_Middle02_BASE
+      parentName: 
+      position: {x: -0.0000018850968, y: 2.8804495, z: -0.0000100207635}
+      rotation: {x: 0.03886339, y: -0.0026832484, z: 0.0041939667, w: 0.9992321}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.99999994}
+    - name: L_Middle03_BASE
+      parentName: 
+      position: {x: -0.000006020481, y: 2.126899, z: 0.000014990132}
+      rotation: {x: -0.3228039, y: -0.94265294, z: -0.075942375, w: 0.03789429}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: L_Middle_End_BASE
+      parentName: 
+      position: {x: 1.3760892, y: 1.5089287, z: 0.4052389}
+      rotation: {x: -0.7485296, y: 0.6630683, z: 0.0030430383, w: -0.0058818785}
+      scale: {x: 0.99999964, y: 1, z: 1.0000002}
+    - name: L_Pinky01_BASE
+      parentName: 
+      position: {x: -2.813793, y: 1.6748744, z: -5.36}
+      rotation: {x: -0.0002561467, y: 0.923785, z: 0.15683098, w: -0.3493212}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: L_Pinky02_BASE
+      parentName: 
+      position: {x: -0.000010377161, y: 0.000008434133, z: 2.582509}
+      rotation: {x: -0.71353763, y: -0.12881717, z: 0.11173615, w: -0.6795479}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: L_Pinky03_BASE
+      parentName: 
+      position: {x: -0.3645534, y: 1.2402077, z: 0.000015957929}
+      rotation: {x: -0.011741888, y: 0.020783383, z: -0.92482644, w: 0.37963966}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: L_Pinky_End_BASE
+      parentName: 
+      position: {x: -0.5940343, y: -1.1913506, z: -0.15465425}
+      rotation: {x: -0.00000003916742, y: 0.000000015601561, z: 0.00000003403093,
+        w: 1}
+      scale: {x: 0.9999997, y: 0.9999998, z: 0.9999999}
+    - name: L_Ring01_BASE
+      parentName: 
+      position: {x: -3.936227, y: 2.0668824, z: -5.017393}
+      rotation: {x: -0.034113973, y: -0.92558515, z: -0.11535904, w: 0.35891584}
+      scale: {x: 0.9999997, y: 1, z: 0.9999999}
+    - name: L_Ring02_BASE
+      parentName: 
+      position: {x: 0.0000061879728, y: -0.000018628452, z: 2.5300777}
+      rotation: {x: 0.7139477, y: 0.021149876, z: -0.022718467, w: 0.69951075}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: L_Ring03_BASE
+      parentName: 
+      position: {x: -0.14220558, y: 1.8989563, z: -0.0000038690073}
+      rotation: {x: 0.020857073, y: 0.11059518, z: -0.91849357, w: 0.37908217}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: L_Ring_End_BASE
+      parentName: 
+      position: {x: -1.0865514, y: -1.2870905, z: -0.37403837}
+      rotation: {x: -0.0000000010549018, y: -8.864579e-10, z: -0.0000000052127205,
+        w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: L_Thumb01_BASE
+      parentName: 
+      position: {x: -2.604483, y: 0.10682279, z: 0.20141575}
+      rotation: {x: -0.7037107, y: 0.05250211, z: -0.032946397, w: 0.7077778}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000001}
+    - name: L_Thumb02_BASE
+      parentName: 
+      position: {x: -2.2038722, y: -0.000023207225, z: 0.0000225894}
+      rotation: {x: 0.9975861, y: -0.038389016, z: 0.007002289, w: -0.057440374}
+      scale: {x: 1.0000001, y: 0.9999999, z: 1.0000001}
+    - name: L_Thumb03_BASE
+      parentName: 
+      position: {x: -2.1186345, y: -0.0000060544294, z: 0.000012879316}
+      rotation: {x: 0.09184305, y: -0.038036995, z: -0.029661747, w: 0.9946045}
+      scale: {x: 0.9999998, y: 1, z: 0.9999998}
+    - name: L_Thumb_End_BASE
+      parentName: 
+      position: {x: -2.4350963, y: -0.043503888, z: 0.014442917}
+      rotation: {x: -0.44436076, y: -0.65648174, z: -0.25469962, w: 0.55380815}
+      scale: {x: 0.9999998, y: 1.0000004, z: 0.9999995}
+    - name: Neck_BASE
+      parentName: 
+      position: {x: 0.0000015603383, y: 5.366043, z: -0.00000058840027}
+      rotation: {x: 0.051897414, y: -1.6080712e-10, z: -0.0000000024807454, w: 0.9986524}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: Head_BASE
+      parentName: 
+      position: {x: -0.00000047925647, y: 7.375938, z: -0.0000026609735}
+      rotation: {x: 0.024567476, y: 5.1668664e-10, z: -0.0000000032580756, w: 0.9996982}
+      scale: {x: 1, y: 0.99999976, z: 1.0000001}
+    - name: Head_End_BASE
+      parentName: 
+      position: {x: 0.0000012946936, y: 13.1217575, z: 0.000009017111}
+      rotation: {x: -0.08280118, y: 6.024594e-11, z: 7.25097e-10, w: 0.99656606}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: R_Clavicle_BASE
+      parentName: 
+      position: {x: 2.3378916, y: -0.1374374, z: 5.5497375}
+      rotation: {x: 0.44953662, y: -0.41275686, z: 0.44070983, w: 0.6582731}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: R_Humerus_BASE
+      parentName: 
+      position: {x: -0.0000031444667, y: -13.4133005, z: -0.00012393504}
+      rotation: {x: -0.14310145, y: 0.8192356, z: -0.040374793, w: -0.5538456}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1}
+    - name: R_Forearm_BASE
+      parentName: 
+      position: {x: 0.00028486756, y: -17.754124, z: -0.000020973046}
+      rotation: {x: 0.024809033, y: 0.11570185, z: -0.017536769, w: 0.99281925}
+      scale: {x: 0.99999934, y: 0.99999994, z: 0.99999934}
+    - name: R_Wrist_BASE
+      parentName: 
+      position: {x: -0.000043001713, y: -20.051975, z: 0.000000053874302}
+      rotation: {x: 0.03843957, y: 0.13193743, z: 0.6450546, w: -0.75167775}
+      scale: {x: 1, y: 1.0000002, z: 1.0000002}
+    - name: R_Index01_BASE
+      parentName: 
+      position: {x: 6.569062, y: -0.16184765, z: -1.6782875}
+      rotation: {x: -0.52475095, y: 0.44231504, z: -0.46734178, w: -0.55730206}
+      scale: {x: 1, y: 0.99999994, z: 0.99999976}
+    - name: R_Index02_BASE
+      parentName: 
+      position: {x: -0.000010920236, y: -2.8438458, z: 0.000015245746}
+      rotation: {x: 0.02118867, y: -0.013836207, z: 0.01671242, w: 0.9995401}
+      scale: {x: 1.0000002, y: 1, z: 0.99999994}
+    - name: R_Index03_BASE
+      parentName: 
+      position: {x: -0.000006323674, y: -1.7528582, z: 0.00006847805}
+      rotation: {x: -0.00037262187, y: -0.007834406, z: 0.020375967, w: 0.9997617}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000001}
+    - name: R_Index_End_BASE
+      parentName: 
+      position: {x: 0.0000015494938, y: -1.6806581, z: -0.000049824874}
+      rotation: {x: 0.99952924, y: -0.016701719, z: 0.0043185325, w: -0.025373127}
+      scale: {x: 0.9999998, y: 0.9999996, z: 0.99999976}
+    - name: R_Middle01_BASE
+      parentName: 
+      position: {x: 6.7610354, y: -0.035808615, z: -0.23995002}
+      rotation: {x: -0.45086884, y: 0.48055598, z: -0.5346741, w: -0.5290622}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: R_Middle02_BASE
+      parentName: 
+      position: {x: 0.000009922888, y: -2.880424, z: -0.00003816086}
+      rotation: {x: 0.03796489, y: -0.00077599933, z: 0.009354065, w: 0.999235}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: R_Middle03_BASE
+      parentName: 
+      position: {x: -0.0000025864229, y: -2.1269712, z: -0.0000025027325}
+      rotation: {x: -0.018259559, y: -0.004382958, z: 0.038184952, w: 0.99909425}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: R_Middle_End_BASE
+      parentName: 
+      position: {x: 0.000004631309, y: -2.0820713, z: 0.000037070648}
+      rotation: {x: -0.99900943, y: 0.01313761, z: -0.041962966, w: 0.0068370597}
+      scale: {x: 1, y: 1.0000001, z: 0.99999964}
+    - name: R_Pinky01_BASE
+      parentName: 
+      position: {x: 5.887419, y: 0.25872838, z: 2.1730955}
+      rotation: {x: 0.08473008, y: 0.73874396, z: -0.095727794, w: -0.66175103}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000006}
+    - name: R_Pinky02_BASE
+      parentName: 
+      position: {x: -0.00006161634, y: -0.000037197802, z: -2.5826125}
+      rotation: {x: 0.72907096, y: -0.02206129, z: -0.048385963, w: 0.6823692}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.99999994}
+    - name: R_Pinky03_BASE
+      parentName: 
+      position: {x: 0.000016309472, y: -1.2925977, z: -0.000018089286}
+      rotation: {x: -0.9971085, y: 0.020301806, z: 0.0042776684, w: -0.073104106}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: R_Pinky_End_BASE
+      parentName: 
+      position: {x: 0.07082657, y: 1.3355986, z: 0.0858724}
+      rotation: {x: 0.000000097948345, y: 0.00000005066028, z: 0.022490295, w: 0.9997471}
+      scale: {x: 0.9999999, y: 0.99999976, z: 0.9999997}
+    - name: R_Ring01_BASE
+      parentName: 
+      position: {x: 6.598518, y: 0.05532689, z: 1.1811949}
+      rotation: {x: -0.028665926, y: 0.7423548, z: -0.02984999, w: -0.66872764}
+      scale: {x: 1, y: 1, z: 1.0000002}
+    - name: R_Ring02_BASE
+      parentName: 
+      position: {x: -0.0000081023845, y: -0.000048575013, z: -2.5301433}
+      rotation: {x: 0.71390134, y: 0.0086630555, z: 0.01827837, w: 0.69995415}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: R_Ring03_BASE
+      parentName: 
+      position: {x: 0.0000034224026, y: -1.9042863, z: -0.000013906093}
+      rotation: {x: -0.9998138, y: 0.0034614212, z: 0.0021651566, w: 0.018861912}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: R_Ring_End_BASE
+      parentName: 
+      position: {x: 0.02955537, y: 1.7242508, z: -0.057008285}
+      rotation: {x: 0.000000049056116, y: -0.00023683759, z: 0.0000000025271547, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: R_Thumb01_BASE
+      parentName: 
+      position: {x: 1.7667558, y: 0.4252372, z: -1.8795795}
+      rotation: {x: -0.71765506, y: 0.19122192, z: 0.3146079, w: 0.5911238}
+      scale: {x: 1, y: 1.0000002, z: 0.99999994}
+    - name: R_Thumb02_BASE
+      parentName: 
+      position: {x: 2.2039132, y: -0.000014687978, z: -0.000026548996}
+      rotation: {x: -0.005579022, y: 0.0086610485, z: -0.03838368, w: 0.99921}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: R_Thumb03_BASE
+      parentName: 
+      position: {x: 2.1178572, y: -0.0019461567, z: 0.056005184}
+      rotation: {x: -0.0030260298, y: 0.01731695, z: 0.027402574, w: 0.99946994}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: R_Thumb_End_BASE
+      parentName: 
+      position: {x: 2.4355717, y: -0.000031132568, z: -0.000018668326}
+      rotation: {x: 0.5528277, y: 0.4473779, z: -0.53533214, w: 0.45569074}
+      scale: {x: 1, y: 1.0000005, z: 1.0000001}
+    - name: Skin
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  remapMaterialsIfMaterialImportModeIsNone: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
